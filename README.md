@@ -8,3 +8,8 @@ To simulate a real-world collision, I intentionally modified the same lines of c
 
 ### Pull Requests and Collaboration
 The transition to GitHub for the Pull Request (PR) phase demonstrated how version control shifts from a technical tool to a communication tool. By pushing the local branches and opening a PR to `review/main`, I created a transparent audit trail of the changes. The PR process is vital for code quality; it allows for peer review, where logic can be critiqued and bugs caught before they reach production. Engaging in the peer review for a classmate’s repository further emphasized this, as providing constructive feedback ensures that the entire team maintains a consistent coding standard.
+
+### Pull Request Proofs:
+![Peer Review Evidence](/dianepr.png)
+
+![Peer Review Evidence](/josepr.png)
